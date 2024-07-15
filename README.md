@@ -8,4 +8,5 @@ It is divided into several Jupyter Notebook and python files:\
   5. EDA_with_Visualization.pdf - Exploratory Data Analysis using Pandas and Matplotlib\
   6: lab_jupyter_launch_site_location.ipynb - Interactive Visual Analytics with Folium\
   7: spacex_dash_app.py - Interactive Dashboard with Plotly Dash\
-  8: SpaceX_Machine Learning Prediction_Part_5.ipynb - Machine Learning Prediction
+  8: SpaceX_Machine Learning Prediction_Part_5.ipynb - Machine Learning Prediction\
+  9: capstone-story-spaceX-landingPrediction.pdf - Key Findings Presentation
